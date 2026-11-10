@@ -1,0 +1,11 @@
+# ===========================================================================
+# phone-media-transfer-android-app — DSH bundle patch
+# ===========================================================================
+# 安装：
+#   dsh plugin --profile web add github:lilinshuei/phone-media-transfer-android-app
+#   dsh plugin --profile desktop add github:lilinshuei/phone-media-transfer-android-app
+# ===========================================================================
+
+- insert:
+    - id: phone-media-transfer-android-app
+      name: phone-media-transfer-android-app
